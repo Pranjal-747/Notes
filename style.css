@@ -1,0 +1,8 @@
+.heading{
+    font-family: 'georgia';
+    color: beige;
+  }
+  
+.container-fluid.ps-5 {
+    background-color: currentcolor;
+}
